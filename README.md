@@ -1,2 +1,2 @@
 # mask-classifier
-Classify a masked person from an unmasked person
+Classify a masked person and an unmasked person
