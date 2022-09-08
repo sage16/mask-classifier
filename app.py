@@ -5,7 +5,7 @@ import torch
 from PIL import Image
 
 
-class_names = ['with_masked', 'without_mask']
+class_names = ['with_mask', 'without_mask']
 
 
 def load_image():
